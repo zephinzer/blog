@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Fira+Mono:400,500,700|Lato:100,100i,300,300i,400,400i,700,700i,900,900i');
+@import url('https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/default.min.css');
+
+html {
+  background: #FAFAFA;
+  color: #333;
+  font-family: 'Lato';
+}
+
+code {
+  font-family: 'Fira';
+  font-variant-ligatures: common-ligatures;
+}
+
+img {
+  box-shadow: 10px 10px 30px #888;
+  display: block;
+  margin: 0 auto 0 auto;
+  max-height: 420px;
+  object-fit: cover;
+  object-position: center;
+  width: 80%;
+}

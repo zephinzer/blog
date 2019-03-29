@@ -1,0 +1,4 @@
+Makefile
+posts
+./src/_*
+./src/css
